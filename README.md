@@ -58,17 +58,6 @@
 
 ---
 
-## 📊 Estatísticas da Comunidade  
-
-### ⭐ Stars do Repositório
-![Stars](https://img.shields.io/badge/Stars-0-blue?style=for-the-badge&logo=github)
-
-### 📈 Atividade de Commits
-![Commits](https://img.shields.io/badge/Commits-Atividade%20Recente-green?style=for-the-badge&logo=github)
-
-
----
-
 ## 📊 Status de Contribuição
 
 > Aqui você pode atualizar conforme desejar.
